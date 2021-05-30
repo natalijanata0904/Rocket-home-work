@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+
+}
+
+.container {
+    margin-top: 350px;
+    position:fixed;
+
+}
+ button {
+     height: 30px;
+     width: 40px;
+     margin-top: 30px;
+ }
+
+.body {
+    
+}
+ 
